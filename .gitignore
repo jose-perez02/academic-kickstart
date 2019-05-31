@@ -1,12 +1,13 @@
 public/
 .idea/
+.vscode/
 
 ### Hugo ###
 # gitginore template for Hugo projects
 # website: https://gohugo.io
 
 # generated files by hugo
-/resources/_gen/
+resources/_gen/
 
 # executable may be added to repository
 hugo.exe
