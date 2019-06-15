@@ -65,12 +65,11 @@ user_groups:
 - Visitors
 ---
 
-Hi, welcome to my website.
+Hi, my name is Jose Perez.
 
-I'm a fourth-year undergraduate in astronomy and physics at the University of Arizona.
-Some of the areas that I've explored include Python development for calibration, processing, and analysis of astronomical images for the exoplanet survey [EDEN Project](http://project-eden.space/), and interfacing with measurement devices at the [Imaging Technology Lab](http://www.itl.arizona.edu/doku.php).
+I'm a fourth-year undergraduate in astronomy and physics at the University of Arizona. I've had the chance to work in a number of projects during my undergradute career. My main contributions include Python development for calibration, processing, and analysis of astronomical images for the exoplanet survey [EDEN Project](http://project-eden.space/), and deveoping an interface to communicate with measurement devices at the [Imaging Technology Lab](http://www.itl.arizona.edu/doku.php).
 
-I've also had the chance to work with a small team on developing an augmented reality mobile application, [EHTGo](https://play.google.com/store/apps/details?id=org.astroxr.ehtgo), using video game development tools, with the purpose of showcasing the [EHT](https://eventhorizontelescope.org/) locations on a globe.
+I've also had the chance to work with a small team on implementing video game development tools like [Blender](https://www.blender.org/) & [Unity 3D](https://unity.com/) to create an augmented reality mobile application, [EHTGo](https://play.google.com/store/apps/details?id=org.astroxr.ehtgo), with the purpose of showcasing the [EHT](https://eventhorizontelescope.org/) locations on the globe.
 
 In the summer 2019 I will be participating in the [Banneker Institute](https://bannekerinstitute.fas.harvard.edu) Summer Program at Harvard University, where I'll be working closely with a faculty member on an intense project, while attending weekly discussions on social justice issues.
 
