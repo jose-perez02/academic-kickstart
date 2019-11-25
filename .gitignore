@@ -6,6 +6,11 @@ public/
 # gitginore template for Hugo projects
 # website: https://gohugo.io
 
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # generated files by hugo
 resources/_gen/
 
